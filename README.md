@@ -2,4 +2,4 @@
  ISR_Project at KU
  
  
- [Contributors] Jongguk Lee, Heejung Lim, Mihoon Jang, Seohyun Park, YoungMin Kim
+ [Contributors] Jongguk Lee, Heejung Lim, YoungMin Kim
